@@ -1,0 +1,9 @@
+[
+    {
+        "action": "stream",
+        "streamUrl": [
+          "https://raw.githubusercontent.com/Yeehawlerz101/RRCC/master/Wait-Music/wait.mp3"
+        ],
+        "bargeIn":"true"
+    }
+  ]
